@@ -37,9 +37,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VScode" alt="VScode " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/IsaevaNatalia/Portfolio-QA-tester/blob/main/postman-icon-svgrepo-com.svg"  title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/IsaevaNatalia/Portfolio-QA-tester/blob/main/postman-icon-svgrepo-com.svg"  title="Postman" alt="Postman" width="30" height="30"/>&nbsp;
   <img src=""  title="Qase.io" alt="Qase.io" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"  title="DevTools" alt="DevTools" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"  title="DevTools" alt="DevTools" width="30" height="30"/>&nbsp;
 </div>
 
 ---
